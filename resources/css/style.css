@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+section, article, aside, footer, header, nav {
+    display: block;
+}
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: white;
+}
+
+h1 {
+    font-size: 312.5%;
+    margin-bottom: 1em;
+    font-weight: normal;
+}
+button {
+    background-color: black;
+    color: aquamarine;
+    border: none;
+    text-decoration: underline;
+    font-size: 16px;
+    padding: 5% 10%;
+}
+video {
+    display: block;
+}
+.hero {
+    padding: 2em;
+}
